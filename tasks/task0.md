@@ -1,0 +1,3 @@
+- Analyze the code from `oop.vehicles` module
+- Analyze the code from `oop.main` script. What prints do you expect?
+- Run `python oop/main.py` and confirm your understanding.
