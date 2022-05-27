@@ -1,6 +1,8 @@
 //var cors = require('cors');
 //app.use(cors());
 
+console.log('starting');
+
 handle_response = (response) => {
     console.log(response);
     if (response.ok) {

@@ -13,7 +13,7 @@ class MyResource(Resource):
         if request.is_json:
             J = request.get_json()
             print(J)
-            return jsonify(J), 200
+            return J, 200
         else:
             abort(422)
 
