@@ -4,3 +4,4 @@
 - [Task 0](tasks/task0.md)
 - [Task 1](tasks/task1.md)
 - [Task 2](tasks/task2.md)
+- [Task 3](tasks/task3.md)
